@@ -60,7 +60,7 @@
 ## 💻 Tech Stack
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=html,canva,figma,c++,css,js,python,c,cpp,java&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=html,figma,c++,css,js,python,c,cpp,java&theme=dark)
 
 </div>
 
