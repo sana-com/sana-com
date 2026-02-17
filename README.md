@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 Welcome to **UPASANA SHASMAL**'s Profile 🌌
+# 🌌 Welcome to **UPASHANA SHASMAL**'s Profile 🌌
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ffcc&size=25&center=true&vCenter=true&width=600&lines=Hi,+I'm+Upashana+Shasmal;BCA+Student+👩‍🎓;Web+Dev+%7C+Data+Analytics;Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
 
@@ -60,7 +60,7 @@
 ## 💻 Tech Stack
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=html,figma,c++,css,js,python,c,cpp,java&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=html,figma,c++,css,js,python,c,java&theme=dark)
 
 </div>
 
